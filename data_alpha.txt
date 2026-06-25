@@ -1,0 +1,1 @@
+we use the git status to see what changes has happened on the main file
